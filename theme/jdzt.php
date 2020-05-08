@@ -11,7 +11,7 @@
     <link rel="shortcut icon" href="<?php echo $_SERVER['base_disk_path'];?>favicon.ico" type="image/x-icon" />
 	&nbsp;
    	    <center>
-        <iframe width="350" scrolling="no" height="20" frameborder="0" allowtransparency="true" src="//i.tianqi.com/index.php?c=code&id=11&color=#fffffb&bgc=%23&icon=1&site=10&background-color:#00ae9d"></iframe>
+        <iframe width="350" scrolling="no" height="20" frameborder="0" allowtransparency="true" src="//i.tianqi.com/index.php?c=code&id=11&color=#fffffb&background-color:#00ae9d&bgc=%23&icon=1&site=10"></iframe>
         </center>
     <style type="text/css">
         body{margin:0;padding:0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:14px;line-height:1em;color:#000;background-color:#F9FAFB;}
