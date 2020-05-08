@@ -1349,7 +1349,6 @@ function render_list($path = '', $files = '')
     date_default_timezone_set(get_timezone($_SERVER['timezone']));
     $authinfo = '<!--
     OneManager: An index & manager of Onedrive auth by ysun.
-    Github ： https://github.com/qkqpttgf/OneManager-php
 -->';
 
     $theme = getConfig('theme');
@@ -2319,8 +2318,7 @@ function EnvOpt($needUpdate = 0)
         <tr>
             <td colspan="2">'.$disktag.'：
             <input type="hidden" name="disktag_del" value="'.$disktag.'">
-            <input type="submit" name="submit1" value="'.getconstStr('DelDisk').'">
-            </td>
+        </td>
         </tr>
     </form>';
             if (getConfig('refresh_token', $disktag)!='') {
@@ -2357,8 +2355,7 @@ function EnvOpt($needUpdate = 0)
     <select name="branch">
         <option value="master">master</option>
     </select>
-    <input type="submit" name="updateProgram" value="'.getconstStr('updateProgram').'">
-</form>
+   </form>
 <script>
     function querybranchs()
     {
