@@ -5,7 +5,7 @@
         "version_normalized": "1.6.2.0",
         "source": {
             "type": "git",
-            "url": "https://github.com/doctrine/cache.git",
+            "url": "",
             "reference": "eb152c5100571c7a45470ff2a35095ab3f3b900b"
         },
         "dist": {
