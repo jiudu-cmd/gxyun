@@ -35,6 +35,15 @@
         .list-container,.list-header-container,.list-wrapper,a.back-link:hover,body{color:#24292e}
         .table-header{display:block;float:left;margin:10px 0 0 60px;height:40px;line-height:40px;text-align:left;font-weight:400;color:#A0A4B0;word-break: break-all;word-wrap: break-word;}
         .fix{height:60px;}
+	        <link rel="shortcut icon" href="<?php echo $_SERVER['base_disk_path'];?>favicon.ico" type="image/x-icon" />
+  &nbsp;
+   	    <center>
+        <_<center><font color=#b22c46 size=5 face="微软雅黑">共享云盘使用说明</font></center>__
+<font color=#0c212b>  ①【共享云盘】登录:123456 用户可通过密码登入上传文件[若文件重要可自行加密]  
+<font color=#0c212b>  ②【共享云盘】上传后的文件无法自行删除，想删除文件请点击右上方“:”  选择[返回九度头条] 联系客服QQ后台帮你删除。 
+<font color=#d71345>  ③ 任何经由本云盘以上传、张贴或其他方式传送的资讯、资料、文字、软件、音乐、音讯、照片、图形、视讯、信息要完全符合国家法律允许范畴，无论系公开还是私下传送，均由内容提供者、使用者对其上传、使用行为自行承担责任。本云盘服务作为信息存储空间服务平台，无法控制经由本服务传送之内容，也无法对用户的使用行为进行全面控制，因此不能保证内容的合法性、正确性、完整性、真实性或品质；用户已预知使用本服务时，可能会接触到令人不快、不适当等内容，并同意将自行加以判断并承担所有风险，而不依赖于本云盘服务。    
+<font color=#d71345> ④后台人工对用户上传的资讯、资料、文字、软件、音乐、音讯、照片、图形、视讯、信息不定时筛查，发现违规立即删除，因此造成其相关文件丢失或者损坏，本云盘不承担任何责任。  ></iframe>
+        </center>
         .list-body-container{position:relative;left:0;overflow-x:hidden;overflow-y:auto;box-sizing:border-box;}
         .more-disk{border-bottom:1px solid #E8E9EC;height:40px;white-space:nowrap;overflow:auto;}
         .more-disk a{display:block;float:left;width:30%;height:38px;text-align:center;font-weight: bold;font-size: 18px;line-height:38px;color:#A6AAB4; }
