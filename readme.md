@@ -63,5 +63,4 @@ You'll want to fork this repository and deploy your own image to primitive.
 4. Deploy by running `now` from the CLI (if you don't already have it, run `npm install -g now`)
 
 Alternatively, you can do a one-click to deploy with the button below.
-
-[![Deploy to now](https://deploy.now.sh/static/button.svg)]-（https://zeit.co/new/project?template=https://github.com/jiudu-cmd/gxyun）
+[![Deploy to now](https://deploy.now.sh/static/button.svg)](https://zeit.co/new/project?template=jiudu-cmd/gxyun)
